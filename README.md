@@ -1,2 +1,3 @@
 # CheckPalindrome
- Comprobador de palÃ­ndromos
+ Comprobador de palíndromos
+ 
